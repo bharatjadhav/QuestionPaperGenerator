@@ -1,0 +1,30 @@
+
+.input__field--kozakura {
+	padding: 0.25em 0.5em;
+	margin-top: 1.25em;
+	width: 100%;
+	background: transparent;
+	color: #2F3238;
+	font-size: 1.55em;
+	opacity: 0;
+}
+.input__field--kozakura:focus, .input--filled .input__field--kozakura {
+	-webkit-transition: opacity 0s 0.35s;
+	transition: opacity 0s 0.35s;
+	opacity: 1;
+}
+
+.input__field {
+	position: relative;
+	display: block;
+	float: right;
+	padding: 0.8em;
+	width: 60%;
+	border: none;
+	border-radius: 0;
+	background: #ff1010;
+	color: #514b4b;
+	font-weight: 400;
+	font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	-webkit-appearance: none;
+}

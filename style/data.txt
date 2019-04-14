@@ -1,0 +1,200 @@
+<fieldset  class="fieldsetst">
+
+          <legend>       
+       
+   // member profil     
+<fieldset style="width:98%" class="fieldsetst">
+    <legend >
+       
+           box-shadow: 5px 5px 5px #cc00ffd7
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       s
+       
+       
+       
+        border-color: #ff0000 #00ff00 #00e1ff rgb(255, 136, 0)
+
+
+
+          font-style: oblique;
+
+
+
+<script>
+     function altlogs()
+    {
+        alert("login scuessful");
+    }
+</script>
+
+
+
+
+<div class="back">
+            <video height="100%" width="100%" autoplay="true" loop="loop" muted>
+                <source src="" type="video/mp4">
+
+            </video>
+        </div>
+
+
+
+
+
+
+
+         background-color: initial;
+
+
+
+         
+         
+         
+         
+         <script lang="javascript" type="text/javascript">
+function onlyAlphabets(e,t)
+{
+
+    try{
+        if(window.event){
+            var charCode=window.event.keyCode;
+        }
+        else if (e){
+            var charCode=e.which;
+        }
+        else{ return true;}
+        if((charCode>64 && charCode<91)||(charCode>96 && charCode < 123 ))
+        return true;
+        else
+        return false;
+    }
+    catch(err)
+    {
+        alert(err.Description);
+    }
+}
+</script>
+        
+
+
+
+
+
+
+
+
+
+
+
+<script lang="javascript" type="text/javascript">
+function onlyAlphabets()
+{
+var regex =/^[a-zA-Z]*$/;
+if (regex.test(document.f.nm.value)){
+    return true;
+}
+else{
+    document.getElementById("notification").innerHTML="Alphabets Only";
+    return false;
+}
+}
+</script>
+ 
+
+ <form onsubmit="return onlyAlphabets()">
+
+
+
+
+
+
+
+
+
+
+
+th {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+color:#cd7432;
+
+background-color: #223213;
+    width: 25%;
+            padding: 12px 20px !important;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            height: 1%;
+            box-sizing: border-box;
+
+            border: 2px solid #ccc;
+            border-radius: 50px;
+            font-size: 16px;
+}
+ td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+color:#cd7432;
+background-color: #fff;
+font-style:script;
+    display: table-cell;
+    width: 65%;
+            padding: 12px 20px !important;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            height: 1%;
+            box-sizing: border-box;
+
+            border: 2px solid #ccc;
+            border-radius: 50px;
+            font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+body{
+  background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+  background: linear-gradient(to right, #25c481, #25b7c4);
+  font-family: 'Roboto', sans-serif;
+}
+section{
+  margin: 50px;
+}
+
+
+
+
+h1{
+  font-size: 30px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 15px;
+}
+  <blockquote> dffy d8iyuuugdiugdfgpdoglidfjfiord</blockquote>
